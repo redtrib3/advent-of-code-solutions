@@ -1,4 +1,4 @@
-# [AdventofCode-2022](https://adventofcode.com/2022)
+# Advent of Code 2022 🎅
 
 My Solutions for _**Advent of Code (Aoc)**_ Christmas challenges 🎅 (2022)
 
