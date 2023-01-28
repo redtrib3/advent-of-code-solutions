@@ -5,6 +5,7 @@ x = [i.strip('\n') for i in x]
 
 cmds = x[x.index('')+1:]
 
+#created my on input instead of all that input formatting :D
 crates = [
     ['V','Q','W','M','B','N','Z','C'],
     ['B','C','W','R','Z','H'],
