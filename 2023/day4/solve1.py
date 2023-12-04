@@ -14,7 +14,7 @@ for i in input:
     winning_nums.append(list(map(int,snums[0].split())))
     curr_nums.append(list(map(int,snums[1].split())))
 
-# can have repeating nums in two sets, so intersection is not possible
+# may have repeating nums in two sets, so intersection is not possible
 # set(winning_nums[0]).intersection(set(curr_nums[0]))
 
 
